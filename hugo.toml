@@ -1,0 +1,7 @@
+baseURL = 'https://www.covertoperations.net'
+languageCode = 'en-us'
+title = 'Covert Operations'
+theme = 'landing'
+
+[params]
+    subtitle = "Explore the mystery of customer satisfaction."
